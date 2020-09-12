@@ -120,6 +120,8 @@
 
 - [@DamjanKarlovski](https://github.com/DamjanKarlovski)
 
+- [@IkehAkinyemi] (https://github.com/IkehAkinyemi)
+
 - [@DanielLivingston32](https://github.com/DanielLivingston32/)
 
 - [@Davidigbokwe](https://github.com/Davidigbokwe)
